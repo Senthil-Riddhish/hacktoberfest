@@ -1,3 +1,8 @@
+#### Name: [Riddhishwar S](https://github.com/Senthil-Riddhish)
+- Place: Erode, TamilNadu, India
+- Bio: Web developer, Developer Analyst, Data Enginner and aspiring Generative AI enthusiastic ,software developer and vitian
+- GitHub: [Senthil-Riddhish](https://github.com/Senthil-Riddhish)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
